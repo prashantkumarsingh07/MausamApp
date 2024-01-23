@@ -1,5 +1,5 @@
 # MausamApp
-demo(copy paste the url for demo in new tab) - mausamapp-by-prashant.netlify.app
+[Live Demo]( https://mausamapp-by-prashant.netlify.app/)
 
 MausamApp , i just completed a project named MausamApp( a  weather app),
 with the help of HTML , CSS & JavaScript from scratch its fully #responsive  .
